@@ -34,7 +34,7 @@ use Illuminate\Contracts\Auth\Guard;
 use Illuminate\Contracts\Auth\PasswordBroker;
 
 //use Illuminate\Foundation\Auth\ResetsPasswords;
-https://github.com/lasallecms/lasallecms-l5-flagship/issues/20
+//https://github.com/lasallecms/lasallecms-l5-flagship/issues/20
 use Lasallecms\Usermanagement\Http\Controllers\Auth\ResetsPasswords;
 
 class PasswordController extends Controller {
